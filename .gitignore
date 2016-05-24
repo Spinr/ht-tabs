@@ -1,0 +1,5 @@
+# Mac OS
+.DS-Store
+
+#npm
+node_modules/**/.bin/
